@@ -1,4 +1,4 @@
-# Supported platforms for ALL sixit C++ Libs
+# Supported platforms for sixit C++ Libs
 In our speak, "platform" = "CPU+Compiler+OS". 
 
 ## Supported CPUs:
