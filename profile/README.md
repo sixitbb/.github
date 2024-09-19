@@ -7,7 +7,7 @@ Six Impossible Things Before Breakfast Ltd. is an Ireland-based company, working
 
 In progress:
 - [sixit/dmath](https://github.com/sixitbb/sixit-dmath/tree/main) - cross-platform deterministic math lib (as ~~seen on TV~~ presented on CppCon24)
-- [sixit/geometry](https://github.com/sixitbb/sixit-geometry/tree/main) - geometrical primitives and algorithms (both 2D and 3D), with cross-platform deterministic support
+- [sixit/geometry](https://github.com/sixitbb/sixit-geometry/tree/main) - geometrical primitives and algorithms (both 2D and 3D), with support for cross-platform deterministic from sixit/dmath
 
 ## Other sixit projects we already have and plan to release soon
 ### C++
