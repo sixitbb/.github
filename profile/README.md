@@ -2,13 +2,15 @@
 
 Six Impossible Things Before Breakfast Ltd. is an Ireland-based company, working on quite a few interesting things, and releasing some (but not all :wink:) of them as open source here. 
 
-## Released:
-- [sixit/core](https://github.com/sixitbb/sixit-core/tree/main) - a collection of small but all-important libs which lay foundation for all the other sixit/ libs. 
+## Released
+- [sixit/core](https://github.com/sixitbb/sixit-core/tree/main) - a collection of small but all-important libs which lay foundation for all the other sixit/ libs.
+
+In progress:
+- [sixit/dmath](https://github.com/sixitbb/sixit-dmath/tree/main) - cross-platform deterministic math lib (as ~~seen on TV~~ presented on CppCon24)
+- [sixit/geometry](https://github.com/sixitbb/sixit-geometry/tree/main) - geometrical primitives and algorithms (both 2D and 3D), with cross-platform deterministic support
 
 ## Other sixit projects we already have and plan to release soon
 ### C++
-- sixit/dmath - cross-platform deterministic math lib (as ~~seen on TV~~ presented on CppCon24)
-- sixit/geometry - geometrical primitives and algorithms (both 2D and 3D), with cross-platform deterministic support
 - sixit/rw - serialization lib aiming top efficiency, and able to support ABSOLUTELY ANY format (JSON, protobuf, custom binary competing speed-wise with FlatBuffers and Cap'nProto, you name it). Also supports arbitrary hashing (as a pseudo-serialization), including crypto-quality hashing (BLAKE2 ATM, more to be added). 
 - sixit/graphics - comprehensive support for meshes (incl. skinning), textures, etc. Materials are PBR-only though. Also will contain basic helpers such as decimator half-edge-oriented framework (based directly on [A General Framework for Mesh Decimation](https://www.graphics.rwth-aachen.de/media/papers/mesh.pdf)).
 - sixit/physics - simple physics, with cross-platform deterministic support
