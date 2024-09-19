@@ -5,7 +5,8 @@ Six Impossible Things Before Breakfast Ltd. is an Ireland-based company, working
 ## Released:
 - [sixit/core](https://github.com/sixitbb/sixit-core/tree/main) - a collection of small but all-important libs which lay foundation for all the other sixit/ libs. 
 
-## Other sixit libs we already have and plan to release soon:
+## Other sixit projects we already have and plan to release soon
+### C++
 - sixit/dmath - cross-platform deterministic math lib (as ~~seen on TV~~ presented on CppCon24)
 - sixit/geometry - geometrical primitives and algorithms (both 2D and 3D), with cross-platform deterministic support
 - sixit/rw - serialization lib aiming top efficiency, and able to support ABSOLUTELY ANY format (JSON, protobuf, custom binary competing speed-wise with FlatBuffers and Cap'nProto, you name it). Also supports arbitrary hashing (as a pseudo-serialization), including crypto-quality hashing (BLAKE2 ATM, more to be added). 
