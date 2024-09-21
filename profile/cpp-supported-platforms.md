@@ -66,7 +66,7 @@ sixit/sarge CI Tier 1 (cannot merge to trunk unless CI passes):
 - iOS/ARM (build only)
 
 sixit/sarge CI Tier 3 (run manually on regular basis):
-- Linux/RISC-V64/GCC 12
+- Linux/RISC-V64/GCC 12 [NB: It is a Scaleway box with SoC T-Head 1520 / C910 CPU]
 
 Planned:
 - Win/ARM/MSVC
